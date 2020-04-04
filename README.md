@@ -1,2 +1,8 @@
 # hello-world
-first github repository
+
+Greetings!
+
+My name is Mark and I love neural networks!
+
+Yay!
+
